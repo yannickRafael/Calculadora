@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="calculadora_basica">Calculadora Basica</string>
+    <string name="conversor_moedas">Conversor de Moedas</string>
+    <string name="conversor_unidades">Conversor de Unidades</string>
+    <string name="graficos">Graficos</string>
+    <string name="info">Info</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+</resources>

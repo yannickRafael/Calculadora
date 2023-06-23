@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view"
+    >
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_calculadora_basica"
+            android:title="@string/calculadora_basica"
+            android:icon="@drawable/calculadora_icon"
+            />
+
+        <item
+            android:id="@+id/nav_conversor_unidades"
+            android:title="@string/conversor_unidades"
+            android:icon="@drawable/conversor_unidades_icon"
+            />
+
+        <item
+            android:id="@+id/nav_conversor_moedas"
+            android:title="@string/conversor_moedas"
+            android:icon="@drawable/conversor_moedas_icon"
+            />
+
+        <item
+            android:id="@+id/nav_graficos"
+            android:title="@string/graficos"
+            android:icon="@drawable/graficos_icon"
+            />
+
+
+
+        <item android:title="">
+            <menu>
+                <item
+                    android:id="@+id/nav_info"
+                    android:title="@string/info"
+                    android:icon="@drawable/info_icon"
+                    />
+            </menu>
+        </item>
+
+    </group>
+
+</menu>

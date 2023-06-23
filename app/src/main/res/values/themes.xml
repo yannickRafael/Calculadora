@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="mainTheme" parent="Theme.Material3.DayNight.NoActionBar">
+         <item name="colorPrimary">@color/colorPrimary</item>
+
+    </style>
+
+    <style name="Theme.Calculadora" parent="mainTheme" />
+
+    <style name="buttons">
+        <item name="colorPrimary">@color/white</item>
+    </style>
+
+
+
+</resources>
